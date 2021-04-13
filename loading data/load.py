@@ -15,5 +15,5 @@ def get_data(data_dir):
     return np.array(data)
   
 #to access training/testing data
-train = get_data('../input/traintestsports/Main/train')
-test = get_data('../input/traintestsports/Main/test')
+#train = get_data() wherever training data is stored
+#test = get_data()  wherever testing data is stored

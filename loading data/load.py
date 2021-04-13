@@ -1,4 +1,4 @@
-labels = ['pomogranate' , 'plum' , 'tomato']
+labels = ['pomegranate' , 'plum' , 'tomato']
 img_size = 224
 def get_data(data_dir):
   data = []
